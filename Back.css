@@ -1,0 +1,34 @@
+.MakePag{
+    width:500px;
+    height:700px;
+    margin-left:500px;
+    background-color:white;
+}
+.Make{
+    position: relative;
+    left:200px;
+    top:50px;
+}
+.MakeWrap{
+    font-size:15px;
+    margin-left:80px;
+}
+.MakeInput{
+    margin-left:50px;
+    background-color:white;
+    width:400px;
+    height:40px;
+    border:0px;
+    border-bottom:solid 2px #cccccc;
+    outline:none;
+}
+.button{
+    margin-left:100px;
+    width:300px;
+    height:50px;
+    background-color:#00c940;
+    border:0px;
+    border-radius:5px;
+    color:white;
+    cursor:pointer;
+}

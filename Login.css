@@ -1,0 +1,62 @@
+.pag{
+    margin-left:500px; width:500px;
+    height:700px;
+    background-color:white;
+    margin-top:20px;
+}
+.tatleWrap{
+    font-size:30px;
+    font-weight:600;
+    position: relative;
+    left:60px;
+    top:100px;
+}
+.inputTitle{
+    position: relative;
+    left:60px;
+    top:120px;
+}
+.inputs{
+    position: relative;
+    left:50px;
+    top:120px;
+    background-color:white;
+    width:400px;
+    height:40px;
+    border:0px;
+    border-bottom:solid 2px #cccccc;
+    outline:none;
+}
+.bottombutton{
+    position: relative;
+    left:100px;
+    top:120px;
+    width:300px;
+    height:50px;
+    background-color:#00c940;
+    border:0px;
+    border-radius:5px;
+    color:white;
+    cursor:pointer;
+}
+.si{
+    position: relative;
+    top:120px;
+    left:255px;
+    color:#0158b1;
+    text-decoration: none;
+    cursor:alias;
+    font-weight:600;
+}
+.bottombutton:disabled{
+    background-color:gray;
+    border:solid 2px silver;
+}
+.errorMessageWrap{
+    position: relative;
+    top:110px;
+    left:100px;
+    font-size:13px;
+    color:red;
+    font-weight:200;
+}
